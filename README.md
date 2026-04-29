@@ -1,12 +1,6 @@
-<h1 align="center">キブンメシ</h1>
+<h1 align="center">Kibunmeshi Portfolio</h1>
 <p align="center">
-  気分から料理を決めるWebアプリ 🍽
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ruby-3.2-red">
-  <img src="https://img.shields.io/badge/Rails-7-red">
-  <img src="https://img.shields.io/badge/Status-Developing-green">
+  迷いを減らし、選択をシンプルに
 </p>
 
 ---
@@ -15,7 +9,7 @@
 
 - Ruby / Rails を学習中
 - Webエンジニア転職を目指しています
-- 「迷いを減らし、選択をシンプルに」をテーマに開発
+- 食と体験を軸に「選びやすさ」を設計するアプリ開発
 
 ---
 
@@ -25,15 +19,38 @@
 気分から料理を決めるWebアプリ
 
 **課題（Problem）**
-- 「何食べたい？」問題が日常的に発生
+- 「何食べたい？」という日常的な意思決定の迷い
 
 **解決（Solution）**
-- 気分（ガッツリ / サッパリ）から直感的に選択できるUI
+- 気分（ガッツリ / サッパリ）から直感的に選べるUI
 
-**使用技術（Tech）**
+**使用技術**
 - Ruby / Ruby on Rails / PostgreSQL / Docker / Tailwind
 
 🔗 https://kibunmeshi.onrender.com
+
+---
+
+### 🍲 この芋煮論争を終わらせに来た!!!
+芋煮文化をテーマにした診断型Webアプリ
+
+**コンセプト**
+- 味付け・肉・特徴を選び、好みの芋煮を知る
+- 東北6県の芋煮文化を知り、芋煮論争を楽しく終わらせる
+
+**概要**
+- 3ステップで味の好みを診断
+- 芋煮文化（芋煮会・地域差）への理解促進
+- 食文化×防災意識の側面も考慮
+
+**制作背景**
+- 食品メーカー時代に東北を担当し、芋煮文化に触れた経験
+- 現職の危機管理業務から、防災と食の関係性を再認識
+- 趣味（お笑いPodcast）とテーマの親和性から企画
+
+**補足**
+- RUNTEQ ミニアプリウィーク提出作品
+- ClaudeCodeを用いた開発
 
 ---
 
