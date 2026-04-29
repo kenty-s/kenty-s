@@ -18,8 +18,9 @@
 
 ### 🍽 キブンメシ
 気分から料理を決めるWebアプリ
+<br>
 <img src="https://github.com/user-attachments/assets/d2ea8ace-c636-4dae-9273-93b10f633c78" width="400">
-
+<br>
 
 - 「何食べたい？」という日常の迷いを解決
 - 直感的に選べるUI設計
@@ -30,8 +31,9 @@
 
 ### 🍲 芋煮論争アプリ
 この芋煮論争を終わらせに来た!!!
+<br>
 <img src="https://github.com/user-attachments/assets/a98e199e-e100-4004-868b-846241ca8cff" width="400">
-
+<br>
 - 味付け・肉・特徴から好みの芋煮を診断
 - 東北の食文化・芋煮文化の理解促進
 
