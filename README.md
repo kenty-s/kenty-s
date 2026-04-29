@@ -10,6 +10,7 @@
 - Ruby / Rails を学習中
 - Webエンジニア転職を目指しています
 - 食と体験を軸に「選びやすさ」を設計するアプリ開発
+- ユーザーの意思決定を支援するUI/UX設計に注力
 
 ---
 
@@ -25,7 +26,18 @@
 - 気分（ガッツリ / サッパリ）から直感的に選べるUI
 
 **使用技術**
-- Ruby / Ruby on Rails / PostgreSQL / Docker / Tailwind
+<p>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Hotwire-FF5F5F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stimulus-77E8B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Devise-FFB6C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RSpec-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
 🔗 https://kibunmeshi.onrender.com
 
@@ -48,22 +60,33 @@
 - 現職の危機管理業務から、防災と食の関係性を再認識
 - 趣味（お笑いPodcast）とテーマの親和性から企画
 
-**補足**
-- RUNTEQ ミニアプリウィーク提出作品
-- ClaudeCodeを用いた開発
+**使用技術**
+<p>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
-- Ruby / Ruby on Rails
+<p align="center">
 
-### Frontend
-- HTML / CSS / JavaScript / Tailwind
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
-### Infrastructure
-- Docker / Render / PostgreSQL
+</p>
 
 ---
 
