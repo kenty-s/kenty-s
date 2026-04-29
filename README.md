@@ -73,14 +73,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenty-s&theme=dark" />
 </p>
 
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/kenty-s
-
----
-
-<p align="center">
-  Thanks for visiting!
-</p>
