@@ -29,8 +29,8 @@
 
 ---
 
-### 🍲 芋煮論争アプリ
-この芋煮論争を終わらせに来た!!!
+### 🍲 この芋煮論争を終わらせに来た!!!
+いわゆる芋煮論争を巡った診断系Webアプリ
 <br>
 <img src="https://github.com/user-attachments/assets/a98e199e-e100-4004-868b-846241ca8cff" width="400">
 <br>
