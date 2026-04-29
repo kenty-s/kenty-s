@@ -17,7 +17,7 @@
 ## 🚀 Main Projects
 
 ### 🍽 キブンメシ
-気分から料理を決めるWebアプリ
+気分から料理を決めるWebアプリ（RUNTEQ卒業制作/本リリース）
 <br>
 <img src="https://github.com/user-attachments/assets/d2ea8ace-c636-4dae-9273-93b10f633c78" width="400">
 <br>
@@ -30,7 +30,7 @@
 ---
 
 ### 🍲 この芋煮論争を終わらせに来た!!!
-いわゆる芋煮論争を巡った診断系Webアプリ
+いわゆる芋煮論争を巡った診断系Webアプリ(ミニアプリ/バイブコーディング)
 <br>
 <img src="https://github.com/user-attachments/assets/a98e199e-e100-4004-868b-846241ca8cff" width="400">
 <br>
