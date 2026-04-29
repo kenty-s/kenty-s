@@ -1,6 +1,6 @@
-<h1 align="center">Kibunmeshi</h1>
+<h1 align="center">キブンメシ</h1>
 <p align="center">
-  Mood-based food recommendation 🍽
+  気分から料理を決めるWebアプリ 🍽
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- Ruby / Rails 学習中
+- Ruby / Rails を学習中
 - Webエンジニア転職を目指しています
 - 「迷いを減らし、選択をシンプルに」をテーマに開発
 
@@ -24,14 +24,14 @@
 ### 🍽 キブンメシ
 気分から料理を決めるWebアプリ
 
-**Problem**
+**課題（Problem）**
 - 「何食べたい？」問題が日常的に発生
 
-**Solution**
+**解決（Solution）**
 - 気分（ガッツリ / サッパリ）から直感的に選択できるUI
 
-**Tech**
-- Ruby / Rails / PostgreSQL / Docker / Tailwind
+**使用技術（Tech）**
+- Ruby / Ruby on Rails / PostgreSQL / Docker / Tailwind
 
 🔗 https://kibunmeshi.onrender.com
 
