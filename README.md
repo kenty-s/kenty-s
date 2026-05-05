@@ -42,6 +42,8 @@
 - 公務員として危機管理業務を担当
 - 前職×現職の経験を活かし、食文化と防災意識の関係に着目して開発
 
+🔗 https://miniapp-week.onrender.com/
+
 ---
 
 ## 🛠 Tech Stack
