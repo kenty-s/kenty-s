@@ -1,4 +1,4 @@
-<h1 align="center">ケンティ / kenty-s</h1>
+<h1 align="center">ケンティ</h1>
 <p align="center">
   迷いを減らし、選択をシンプルに
 </p>
