@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me　[LP](https://landing-page-seven-green-40.vercel.app/)
 
 - Ruby / Rails を中心に学習中
 - Webエンジニア転職を目指しています
