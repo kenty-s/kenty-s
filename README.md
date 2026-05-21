@@ -1,6 +1,6 @@
 <h1 align="center">ケンティ</h1>
 <p align="center">
-  迷いを減らし、選択をシンプルに
+  営業、行政、そしてIT
 </p>
 
 ---
@@ -68,5 +68,5 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kenty-s&amp;theme=dark&amp;cache_seconds=3600" />
+  <img src="https://streak-stats.demolab.com?user=kenty-s&theme=transparent&cache_seconds=180" />
 </p>
