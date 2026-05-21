@@ -67,6 +67,6 @@
 
 ## 📊 Stats
 
- <p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=kenty-s&amp;theme=dark&amp;cache_seconds=3600" />
 </p>
